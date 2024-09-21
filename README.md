@@ -1,13 +1,22 @@
 [www.linkedin.com/amrit-mangat](https://www.linkedin.com/in/amrit-mangat-8b6701175/)
 
-# Intruder Alert - *3D FPS GAME* # 
-* Co-developed a first-person shooter game inspired by Wolfenstein 3D (1992), featuring 3D levels with 2D sprites
-* Custom 3D renderer using simplified ray-tracing, with dynamic shading and object sizing based on distance
-* Audio, interrupts, and joystick control in hardware on a Zedboard FPGA
-* Core game logic and rendering in C++ across two CPU cores
-* Angle transformations and delta time to ensure smooth, consistent frame rates
-* Seamless performance, accurate controls, and bug-free gameplay
-
+# Intruder Alert - *3D FPS GAME* #
+[GitHub Repository](https://github.com/IanC910/wolfenstein_clone)
+* First-Person-Shooter: 3D Levels with 2D Sprites
+  * Goal: Navigate the level and eliminate all enemies to win
+  * Make sure you don’t lose all your health and ammo!
+    * Tip: Look for health and ammo drops around the map if you’re running low
+* Joystick Interface
+  * 2 Joystick Input: Movement and View
+* 2 Core Design
+  * Core 1: Ray Casting and Game Logic
+  * Core 2: Drawing Environment and Sprites
+* Ray-Casting
+  * Cast horizontal rays
+  * Store distance reached by each ray
+* Drawer
+  * Use ray distances to determine size and shading | Second Header
+                                                                                                                                                                                    
 
 ### Intruder Alert Gameplay ###
 
