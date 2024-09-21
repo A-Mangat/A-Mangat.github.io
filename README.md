@@ -1,3 +1,7 @@
+<img width="20" alt="image6" src="https://github.com/user-attachments/assets/763209cc-2699-43dc-97e3-a435848f5db9"> [GitHub](https://github.com/A-Mangat) 
+
+<img width="20" alt="image6" src="https://github.com/user-attachments/assets/3b0b3281-a69d-4d62-a750-f4f5edb1b0ac"> [LinkedIn](http://www.linkedin.com/in/amrit-mangat-8b6701175)
+
 # Intruder Alert - *3D FPS GAME* #
 [GitHub Repository](https://github.com/IanC910/wolfenstein_clone)
 
